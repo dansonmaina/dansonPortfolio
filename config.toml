@@ -196,9 +196,6 @@ weight = 4
 url = "contact/"
 
 
-
-
-
 [[languages.pt-br.menu.main]]
 name = "Home"
 weight = 1
