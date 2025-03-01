@@ -1,4 +1,6 @@
-baseURL = "https://danzig.com/"
+baseURL = "https://dansonmaina.github.io/"
+publishDir = "public"
+
 
 [module]
 [module.hugoVersion]
