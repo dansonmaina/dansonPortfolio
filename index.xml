@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://dansonmaina.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dansonmaina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face&#43;&#43; Face Recognition SDK.</title>
+      <link>https://dansonmaina.github.io/posts/more-rich-content/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;I have previously worked with many Face recognition SDKs Luxand included but my vote goes to Face++ any day and Time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Hack, Models</title>
+      <link>https://dansonmaina.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article gives a indepth understanding of models. General to all programming languages.&#xA;Exapmles used her will be on JAVA.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://dansonmaina.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Danson, An enthusiastic Information Technology technician who is result-oriented and keen to details. Always ready and willing to learn and meet new challenges in a diverse working environment. Expert in internet connectivity, network troubleshooting, computer security, network installation and configuration, software and hardware configurations. Proficiency in Windows and Linux operating systems.&#xA;An all-round developer with competence in designing applications(FIGMA), Developing Android application(JAVA) and manual testing of android applications. With experience in basic data analysis (PYTHON) and development of web app using JavaScript(REACT) but not limited to those.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://dansonmaina.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/contact/</guid>
+      <description>&lt;p&gt;LinkedIn : &lt;a href=&#34;https://www.linkedin.com/in/danson-maina-a98279197/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/danson-maina-a98279197/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/DansonMaina&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/DansonMaina&lt;/a&gt;_&lt;/p&gt;&#xA;&lt;p&gt;Phone Number: +254 711 121 491&lt;/p&gt;&#xA;&lt;p&gt;Emails Address: &lt;a href=&#34;mailto:dansonmaina31@gmail.com&#34; &gt;dansonmaina31@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on </title>
+    <link>https://dansonmaina.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dansonmaina.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face&#43;&#43; Face Recognition SDK.</title>
+      <link>https://dansonmaina.github.io/posts/more-rich-content/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;I have previously worked with many Face recognition SDKs Luxand included but my vote goes to Face++ any day and Time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Hack, Models</title>
+      <link>https://dansonmaina.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article gives a indepth understanding of models. General to all programming languages.&#xA;Exapmles used her will be on JAVA.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
