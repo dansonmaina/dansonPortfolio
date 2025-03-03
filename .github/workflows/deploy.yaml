@@ -1,8 +1,5 @@
 name: Deploy Hugo Site
 
-
-
-
 on:
   push:
     branches:
@@ -13,15 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: true  # Ensure themes and submodules are included
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18  # Set up Node.js (needed for PostCSS, if used)
 
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          extended: true 
+          extended: true
 
-      - run: hugo
+      - run: npm install  # Install dependencies (if using PostCSS, SASS, etc.)
+      - run: npm run build || echo "No build script found"  # Only runs if PostCSS is used
+
+      - run: hugo --baseURL "https://dansonmaina.github.io/dansonPortfolio/"
+
+      - run: ls -la public  # Debugging step to check the generated files
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages  # Ensure deployment to the correct branch
