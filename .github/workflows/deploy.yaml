@@ -22,9 +22,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - run: npm install  # Install dependencies (if using PostCSS, SASS, etc.)
-      - run: npm run build || echo "No build script found"  # Only runs if PostCSS is used
-
       - run: hugo --baseURL "https://dansonmaina.github.io/dansonPortfolio/"
 
       - run: ls -la public  # Debugging step to check the generated files
