@@ -5,6 +5,7 @@ date = "2025-03-07"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++ -->
+---
 
 ## **Hello** <img src="/images/hello.gif" width="50"/>
 
