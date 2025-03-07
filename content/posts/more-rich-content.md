@@ -18,7 +18,6 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 I have previously worked with many Face recognition SDKs Luxand included but my vote goes to Face++ any day and Time.
-<!--more-->
 
 
 ## The Why

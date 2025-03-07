@@ -1,10 +1,12 @@
-+++
+<!-- +++
 title = "Hello"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+date = "2025-03-07"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
-+++
++++ -->
+
+## **Hello** <img src="/images/hello.gif" width="50"/>
 
 I'm Danson, An enthusiastic Information Technology technician who is result-oriented and keen to details. Always ready and willing to learn and meet new challenges in a diverse working environment. Expert in internet connectivity, network troubleshooting, computer security, network installation and configuration, software and hardware configurations. Proficiency in Windows and Linux operating systems.
 An all-round developer with competence in designing applications(FIGMA), Developing Android application(JAVA) and manual testing of android applications. With experience in basic data analysis (PYTHON) and development of web app using JavaScript(REACT) but not limited to those.
