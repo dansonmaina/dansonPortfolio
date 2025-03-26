@@ -25,6 +25,9 @@ noClasses = false
 [frontmatter]
   date = [":default", "date", "publishDate", "lastmod"]
 
+canonifyURLs = true
+
+
 [params]
 author = "Danson Maina"
 # license = '<a rel="license" href= "http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
