@@ -1,4 +1,4 @@
-baseURL = "https://dansonmaina.github.io/dansonPortfolio/"
+baseURL = "https://dansonmaina.github.io/"
 publishDir = "public"
 
 
@@ -24,9 +24,6 @@ noClasses = false
 
 [frontmatter]
   date = [":default", "date", "publishDate", "lastmod"]
-
-canonifyURLs = true
-
 
 [params]
 author = "Danson Maina"

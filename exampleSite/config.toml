@@ -19,6 +19,7 @@ keywords = "Android Developer,JAVA,Kotlin, IT Technician"
 info = ["Android Developer", "Manifest"]
 avatarURL = "/images/avatar.jpg"
 #gravatar = "john.doe@example.com"
+
 dateFormat = "January 2, 2006"
 
 since = 2020
