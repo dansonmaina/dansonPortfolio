@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dansonmaina.github.io/dansonPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controlling Turnstiles Using a DSD Bluetooth Device</title>
+      <link>https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Turnstiles are widely used for access control in various environments such as office buildings, public transport stations, and restricted facilities. Traditional access control systems rely on RFID cards, biometric scanners, or keypad authentication. However, with the advancement of wireless communication technologies, Bluetooth-enabled devices like the DSD Bluetooth module provide a seamless and efficient way to manage turnstiles remotely.&lt;/p&gt;&#xA;&lt;!-- ![Setting up DSD](/images/image-1.png)&#xA;## *Setting up DSD* &lt;figure&gt;&lt;img src=&#34;https://dansonmaina.github.io/dansonPortfolio/images/image-1.png&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA; --&gt;&#xA;&lt;p&gt;Setting up DSD &lt;img src=&#34;https://dansonmaina.github.io/dansonPortfolio/images/image-1.png&#34; alt=&#34;Setting up DSD&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Face&#43;&#43; Face Recognition SDK.</title>
       <link>https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/</link>
@@ -20,21 +27,21 @@
       <link>https://dansonmaina.github.io/dansonPortfolio/posts/markdown-syntax/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://dansonmaina.github.io/dansonPortfolio/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article gives a indepth understanding of models. General to all programming languages.&#xA;Exapmles used her will be on JAVA.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This article gives a indepth understanding of models. General to all programming languages.&#xA;Examples used her will be on JAVA.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://dansonmaina.github.io/dansonPortfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dansonmaina.github.io/dansonPortfolio/about/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;hello&#34;&gt;&#xA;  &lt;strong&gt;Hello&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Danson, An enthusiastic Information Technology technician who is result-oriented and keen to details. Always ready and willing to learn and meet new challenges in a diverse working environment. Expert in internet connectivity, network troubleshooting, computer security, network installation and configuration, software and hardware configurations. Proficiency in Windows and Linux operating systems.&#xA;An all-round developer with competence in designing applications(FIGMA), Developing Android application(JAVA) and manual testing of android applications. With experience in basic data analysis (PYTHON) and development of web app using JavaScript(REACT) but not limited to those.&lt;/p&gt;</description>
+      <description>&lt;!-- +++&#xA;title = &#34;Hello&#34;&#xA;description = &#34;Hugo, the world&#39;s fastest framework for building websites&#34;&#xA;date = &#34;2025-03-07&#34;&#xA;aliases = [&#34;about-us&#34;, &#34;about-hugo&#34;, &#34;contact&#34;]&#xA;author = &#34;Hugo Authors&#34;&#xA;+++ --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;hello&#34;&gt;&#xA;  &lt;strong&gt;Hello&lt;/strong&gt; &lt;img src=&#34;https://dansonmaina.github.io/dansonPortfolio/images/wave-hello.gif&#34; width=&#34;50&#34;/&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Danson, An enthusiastic Information Technology technician who is result-oriented and keen to details. Always ready and willing to learn and meet new challenges in a diverse working environment. Expert in internet connectivity, network troubleshooting, computer security, network installation and configuration, software and hardware configurations. Proficiency in Windows and Linux operating systems.&#xA;An all-round developer with competence in designing applications(FIGMA), Developing Android application(JAVA) and manual testing of android applications. With experience in basic data analysis (PYTHON) and development of web app using JavaScript(REACT) but not limited to those.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>https://dansonmaina.github.io/dansonPortfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dansonmaina.github.io/dansonPortfolio/contact/</guid>
-      <description>&lt;p&gt;LinkedIn : &lt;a href=&#34;https://www.linkedin.com/in/danson-maina-a98279197/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/danson-maina-a98279197/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/DansonMaina&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/DansonMaina&lt;/a&gt;_&lt;/p&gt;&#xA;&lt;p&gt;Phone Number: +254 711 121 491&lt;/p&gt;&#xA;&lt;p&gt;Emails Address: &lt;a href=&#34;mailto:dansonmaina31@gmail.com&#34; &gt;dansonmaina31@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;LinkedIn : &lt;a href=&#34;https://www.linkedin.com/in/danson-maina-a98279197/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/danson-maina-a98279197/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/DansonMaina_/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/DansonMaina_/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Phone Number: +254 711 121 491&lt;/p&gt;&#xA;&lt;p&gt;Emails Address: &lt;a href=&#34;mailto:dansonmaina31@gmail.com&#34; &gt;dansonmaina31@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@
 
 <head>
   <title>
-  Face&#43;&#43; Face Recognition SDK. · 
+  Controlling Turnstiles Using a DSD Bluetooth Device · 
 </title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,33 +13,33 @@
 
 
 <meta name="author" content="Danson Maina">
-<meta name="description" content="This article gives a good description Face&#43;&#43; Face Recognition SDK.">
+<meta name="description" content="This article gives a description of integrating a BLE DSD device for Access Control">
 <meta name="keywords" content="Android Developer,JAVA,Kotlin, IT Technician">
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Face&#43;&#43; Face Recognition SDK.">
-  <meta name="twitter:description" content="This article gives a good description Face&#43;&#43; Face Recognition SDK.">
+  <meta name="twitter:title" content="Controlling Turnstiles Using a DSD Bluetooth Device">
+  <meta name="twitter:description" content="This article gives a description of integrating a BLE DSD device for Access Control">
 
-<meta property="og:url" content="https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/">
-  <meta property="og:title" content="Face&#43;&#43; Face Recognition SDK.">
-  <meta property="og:description" content="This article gives a good description Face&#43;&#43; Face Recognition SDK.">
+<meta property="og:url" content="https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/">
+  <meta property="og:title" content="Controlling Turnstiles Using a DSD Bluetooth Device">
+  <meta property="og:description" content="This article gives a description of integrating a BLE DSD device for Access Control">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-01-16T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-01-16T00:00:00+00:00">
+    <meta property="article:published_time" content="2025-03-24T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-24T00:00:00+00:00">
     <meta property="article:tag" content="Hugo">
     <meta property="article:tag" content="Markdown">
     <meta property="article:tag" content="Css">
     <meta property="article:tag" content="Html">
-      <meta property="og:see_also" content="https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/">
+      <meta property="og:see_also" content="https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/">
       <meta property="og:see_also" content="https://dansonmaina.github.io/dansonPortfolio/posts/markdown-syntax/">
 
 
 
 
-<link rel="canonical" href="https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/">
+<link rel="canonical" href="https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -139,6 +139,8 @@
           
           
             
+          
+            
               
                 <li class="navigation-item menu-separator">
                   <span>|</span>
@@ -146,7 +148,7 @@
                 
               
               <li class="navigation-item">
-                <a href="/dansonPortfolio/pt-br/posts/more-rich-content/"></a>
+                <a href="/dansonPortfolio/pt-br/"></a>
               </li>
             
           
@@ -165,8 +167,8 @@
         <div class="post-title">
           
           <h1 class="title">
-            <a class="title-link" href="https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/">
-              Face&#43;&#43; Face Recognition SDK.
+            <a class="title-link" href="https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/">
+              Controlling Turnstiles Using a DSD Bluetooth Device
             </a>
           </h1>
         </div>
@@ -174,13 +176,13 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa-solid fa-calendar" aria-hidden="true"></i>
-              <time datetime='2025-01-16T00:00:00Z'>
-                January 16, 2025
+              <time datetime='2025-03-24T00:00:00Z'>
+                March 24, 2025
               </time>
             </span>
             <span class="reading-time">
               <i class="fa-solid fa-clock" aria-hidden="true"></i>
-              4-minute read
+              3-minute read
             </span>
           </div>
           <div class="authors">
@@ -216,36 +218,83 @@
 
       <div class="post-content">
         
-        <p>I have previously worked with many Face recognition SDKs Luxand included but my vote goes to Face++ any day and Time.</p>
-<h2 id="the-why">
-  The Why
-  <a class="heading-link" href="#the-why">
+        <h2 id="introduction">
+  Introduction
+  <a class="heading-link" href="#introduction">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>The Face++ SDK is a cutting-edge facial recognition software development kit that provides developers with a comprehensive set of tools for building facial recognition, detection, and analysis functionalities into applications. Developed by Megvii Technology, this SDK has quickly become one of the most popular solutions for developers looking to integrate advanced AI-driven facial recognition technology into their projects.</p>
-<h2 id="key-features-of-face-sdk">
-  Key Features of Face++ SDK.
-  <a class="heading-link" href="#key-features-of-face-sdk">
+<p>Turnstiles are widely used for access control in various environments such as office buildings, public transport stations, and restricted facilities. Traditional access control systems rely on RFID cards, biometric scanners, or keypad authentication. However, with the advancement of wireless communication technologies, Bluetooth-enabled devices like the DSD Bluetooth module provide a seamless and efficient way to manage turnstiles remotely.</p>
+<!-- ![Setting up DSD](/images/image-1.png)
+## *Setting up DSD* <figure><img src="/images/image-1.png" width="400" height="400">
+</figure>
+ -->
+<p>Setting up DSD <img src="/images/image-1.png" alt="Setting up DSD" width="400" height="400"></p>
+<h2 id="understanding-the-dsd-bluetooth-device">
+  Understanding the DSD Bluetooth Device
+  <a class="heading-link" href="#understanding-the-dsd-bluetooth-device">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>One of the main reasons I have come to love the Face++ SDK is its remarkable range of features. At its core, the SDK offers robust facial recognition and detection capabilities. It can identify and verify individual faces from images or videos with impressive accuracy, even in challenging conditions such as poor lighting or partially obscured faces. The technology is backed by powerful algorithms that make it possible to distinguish between millions of faces in real time.</p>
-<p>Additionally, the SDK provides advanced facial analysis features that go beyond basic recognition. For instance, it can detect facial landmarks, such as eyes, nose, mouth, and eyebrows, and analyze facial attributes like age, gender, emotion, and even head pose. This wealth of information can be used to create more personalized and dynamic user experiences, such as customizing app content based on the user’s mood or providing secure authentication.</p>
-<p>Seamless Integration and Usability
-Another aspect that makes the Face++ SDK stand out is its ease of integration. The SDK supports multiple programming languages and platforms, including iOS, Android, Java, Python, and C++, making it highly versatile and accessible to developers regardless of their preferred development environment. As for me, I used Java to develop my Android application whichworks best with this SDK. The well-documented APIs and straightforward integration process significantly reduce the learning curve, allowing developers to quickly incorporate facial recognition capabilities into their applications without needing deep expertise in machine learning or computer vision.</p>
-<p>The Face++ SDK also offers cloud-based and on-device options, providing flexibility depending on the application’s needs. The cloud-based option allows developers to leverage Megvii’s powerful servers to handle intensive computational tasks, while the on-device option offers greater privacy and faster response times by performing facial recognition directly on the user’s device.</p>
-<h2 id="why-i-like-the-face-sdk">
-  Why I Like the Face++ SDK.
-  <a class="heading-link" href="#why-i-like-the-face-sdk">
+<p>The DSD Bluetooth device is a compact and powerful module designed for wireless communication and control. It enables devices to establish a Bluetooth connection with a turnstile control system, allowing authorized users to unlock and operate the turnstile via their smartphones or other Bluetooth-enabled devices.</p>
+<h2 id="components-and-setup">
+  Components and Setup
+  <a class="heading-link" href="#components-and-setup">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>What I particularly love about the Face++ SDK is its combination of simplicity, power, and flexibility. As a developer, I appreciate how the SDK’s easy-to-use interface and comprehensive documentation make it straightforward to implement even the most advanced features. Moreover, the performance of the facial recognition technology is consistently accurate and reliable, which is crucial for building applications that users can trust.</p>
-<p>Furthermore, the SDK’s versatility opens up endless possibilities for innovation. Whether it’s creating smart home devices that recognize family members, developing secure access control systems, or building personalized marketing applications, the Face++ SDK offers the tools needed to bring these ideas to life. Its support for multiple languages and platforms ensures that it can be seamlessly integrated into a wide variety of applications.</p>
+<p>To implement a Bluetooth-based turnstile control system using a DSD Bluetooth device, the following components are required:</p>
+<ul>
+<li>Turnstile Gate — The physical barrier that controls entry and exit.</li>
+<li>DSD Bluetooth Module — The core communication device that interfaces with the turnstile.</li>
+<li>Microcontroller (e.g., Arduino, ESP32, or Raspberry Pi) — Acts as an intermediary between the Bluetooth module and the turnstile system.</li>
+<li>Mobile Application — A custom-built or pre-existing app that sends Bluetooth signals to the turnstile.</li>
+<li>Power Supply — To ensure continuous operation of the turnstile and Bluetooth module.</li>
+</ul>
+<h2 id="how-it-works">
+  How It Works
+  <a class="heading-link" href="#how-it-works">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>User Authentication: The mobile application connects to the DSD Bluetooth module via Bluetooth Low Energy (BLE) or Classic Bluetooth.</li>
+<li>Signal Transmission: Once authenticated, the mobile app sends an unlock signal to the DSD Bluetooth device.</li>
+<li>Microcontroller Processing: The microcontroller receives the Bluetooth signal and triggers the turnstile’s locking mechanism.
+-Access Granted: The turnstile opens, allowing the authorized user to pass.
+Automatic Locking: After a predetermined period, the turnstile re-locks to prevent unauthorized access.</li>
+</ul>
+<h2 id="advantages-of-using-a-dsd-bluetooth-device-for-turnstile-control">
+  Advantages of Using a DSD Bluetooth Device for Turnstile Control
+  <a class="heading-link" href="#advantages-of-using-a-dsd-bluetooth-device-for-turnstile-control">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Wireless Convenience: Eliminates the need for physical access cards or biometric scanners.
+Enhanced Security: Only authorized users with registered mobile devices can gain access.
+Remote Management: Administrators can monitor and control access remotely.
+Easy Integration: Can be integrated with existing access control systems and IoT platforms.
+Cost-Effective: Reduces infrastructure and maintenance costs compared to traditional access control methods.</p>
+<h2 id="applications">
+  Applications
+  <a class="heading-link" href="#applications">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Corporate Offices — Employees can access office premises using their smartphones.
+Public Transport Systems — Commuters can use Bluetooth-enabled tickets for seamless entry.</li>
+<li>Event Venues — Provides quick and efficient access control for concerts and conferences.
+Residential Complexes — Enhances security in gated communities and apartment buildings.</li>
+</ul>
+<!-- ![alt text](/images/image-2.png) -->
+<p>Final Gate SetUp <img src="/images/image-2.png" alt="SFinal Gate SetUp" width="400" height="400"></p>
 <h2 id="conclusion">
   Conclusion.
   <a class="heading-link" href="#conclusion">
@@ -253,11 +302,7 @@ Another aspect that makes the Face++ SDK stand out is its ease of integration. T
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Overall, the Face++ SDK is a powerful tool that offers an exceptional combination of advanced facial recognition capabilities, ease of use, and flexibility. Its robust performance and versatile integration options make it an ideal choice for developers looking to incorporate cutting-edge facial recognition technology into their projects. For these reasons and more, I have come to love the Face++ SDK and consider it an invaluable asset in my development toolkit.
-For Face++ SDK you have to buy the licenses per device which is a bit limiting but good value for your money is guaranteed.
-Onto a journey of Exploring more of such engines to add to my SDK library. If you have any you can share.</p>
-<!-- ![alt text](image.png) -->
-<p>Code Snippet <img src="/images/image.png" alt="SFinal Gate SetUp" width="500" height="500"></p>
+<p>Implementing a DSD Bluetooth device for turnstile control modernizes access management, offering a secure, efficient, and user-friendly solution. With its seamless integration into existing systems, it represents a step forward in smart access control technology. Businesses and facility managers looking to enhance security and convenience should consider Bluetooth-based turnstile control as a viable solution.</p>
 
       </div>
 

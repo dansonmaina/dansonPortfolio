@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/authors/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/categories/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -41,8 +41,11 @@
                 href="https://dansonmaina.github.io/dansonPortfolio/categories/"
                 />
   </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/posts/access-control-dsd/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/tags/css/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -55,7 +58,104 @@
                 />
   </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/authors/danson-maina/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/series/general-topic/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/html/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/tags/html/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/hugo/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/markdown/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/posts/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/posts/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/series/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/series/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/categories/syntax/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/categoria/sintaxe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/categories/syntax/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dansonmaina.github.io/dansonPortfolio/tags/"
+                />
+  </url><url>
+    <loc>https://dansonmaina.github.io/dansonPortfolio/categories/theme-demo/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
@@ -69,103 +169,6 @@
                 hreflang="en"
                 href="https://dansonmaina.github.io/dansonPortfolio/posts/more-rich-content/"
                 />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/series/general-topic/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/html/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/tags/html/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/hugo/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/markdown/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/posts/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/posts/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/series/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/series/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/categories/syntax/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/categoria/sintaxe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/categories/syntax/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/tags/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://dansonmaina.github.io/dansonPortfolio/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dansonmaina.github.io/dansonPortfolio/tags/"
-                />
-  </url><url>
-    <loc>https://dansonmaina.github.io/dansonPortfolio/categories/theme-demo/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dansonmaina.github.io/dansonPortfolio/posts/markdown-syntax/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
