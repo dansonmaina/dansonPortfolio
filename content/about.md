@@ -7,15 +7,14 @@ author = "Hugo Authors"
 +++ -->
 ---
 
-## **Hello** <img src="/images/hello.gif" width="50"/>
+## **Hello** <img src="/images/wave-hello.gif" width="50"/>
 
 I'm Danson, An enthusiastic Information Technology technician who is result-oriented and keen to details. Always ready and willing to learn and meet new challenges in a diverse working environment. Expert in internet connectivity, network troubleshooting, computer security, network installation and configuration, software and hardware configurations. Proficiency in Windows and Linux operating systems.
 An all-round developer with competence in designing applications(FIGMA), Developing Android application(JAVA) and manual testing of android applications. With experience in basic data analysis (PYTHON) and development of web app using JavaScript(REACT) but not limited to those.
 
 Here is More about Danson:
 
-<!-- ## **Technologies** <img src="/images/skills.gif" width="50"/> -->
-## **Technologies** {{< figure src="/images/skills.gif" width="50" style="display: inline-block" >}}
+## **Technologies** <img src="/images/Technologies.gif" width="50"/>
 -----
 
 My tech stack includes but is not limited to:
@@ -24,8 +23,7 @@ My tech stack includes but is not limited to:
 - Figma(Designing)
 - Git, Github and Gitlab
 
-## **Skills** {{< figure src="/images/skills.gif" width="50" style="display: inline-block" >}}
-
+## **Skills** <img src="/images/skills2.gif" width="50"/>
 -----
 
 My knowledge is built around:
@@ -55,11 +53,9 @@ My knowledge is built around:
   - Support Sales system -Syspro.
   - All Other management systems.
 
-<!-- ## **Certifications** {{< figure src="/images/skills.gif" width="50" style="display: inline-block" >}}
-
------ -->
-## **Recent Achievements** {{< figure src="/images/skills.gif" width="50" style="display: inline-block" >}}
-
+## **Certifications** <img src="/images/certificate.gif" width="50"/>
+-----
+## **Recent Achievements** <img src="/images/achievement.gif" width="50"/>
 -----
 - Led a farmers maping Android application for twenty thousand farmmers throughout the processes of registration, maping farms, folllow up visits and issuing of contracts.
 
@@ -69,7 +65,7 @@ My knowledge is built around:
 
 - Buld a Kenyan everyday multi calculator app, during my learning process. ([Link](https://drive.google.com/file/d/1Dzx_GC0VzDbLcq7zTowdze0n4m8Ulgfn/view?usp=sharing))
 
-- I built this portfolio [website and blog.](http://localhost:1313/)
+- I built this portfolio [website and blog.](https://dansonmaina.github.io/dansonPortfolio/)
 
 - Colaborated in the making of a JAVA android library the heavily utilizes models to achieve complex tasks faster.
 
@@ -77,5 +73,5 @@ My knowledge is built around:
 
 ### <u>**Technical Articles**</u>
 
-Find technical articles written by me on the posts page [here.](http://localhost:1313/posts/)
+Find technical articles written by me on the posts page [here.](https://dansonmaina.github.io/dansonPortfolio/posts/)
 

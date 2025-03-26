@@ -34,7 +34,7 @@ Another aspect that makes the Face++ SDK stand out is its ease of integration. T
 The Face++ SDK also offers cloud-based and on-device options, providing flexibility depending on the application’s needs. The cloud-based option allows developers to leverage Megvii’s powerful servers to handle intensive computational tasks, while the on-device option offers greater privacy and faster response times by performing facial recognition directly on the user’s device.
 
 
-## Why I Like the Face++ SDK
+## Why I Like the Face++ SDK.
 What I particularly love about the Face++ SDK is its combination of simplicity, power, and flexibility. As a developer, I appreciate how the SDK’s easy-to-use interface and comprehensive documentation make it straightforward to implement even the most advanced features. Moreover, the performance of the facial recognition technology is consistently accurate and reliable, which is crucial for building applications that users can trust.
 
 Furthermore, the SDK’s versatility opens up endless possibilities for innovation. Whether it’s creating smart home devices that recognize family members, developing secure access control systems, or building personalized marketing applications, the Face++ SDK offers the tools needed to bring these ideas to life. Its support for multiple languages and platforms ensures that it can be seamlessly integrated into a wide variety of applications.
@@ -45,4 +45,6 @@ Overall, the Face++ SDK is a powerful tool that offers an exceptional combinatio
 For Face++ SDK you have to buy the licenses per device which is a bit limiting but good value for your money is guaranteed.
 Onto a journey of Exploring more of such engines to add to my SDK library. If you have any you can share.
 
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
+Code Snippet <img src="/images/image.png" alt="SFinal Gate SetUp" width="500" height="500">
+

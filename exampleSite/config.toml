@@ -19,7 +19,8 @@ keywords = "Android Developer,JAVA,Kotlin, IT Technician"
 info = ["Android Developer", "Manifest"]
 avatarURL = "/images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-dateFormat = "February 6, 2024"
+dateFormat = "January 2, 2006"
+
 since = 2020
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"

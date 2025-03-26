@@ -2,10 +2,11 @@
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-  <section class="container post">
+  <section class="container post text-start" >
     <article>
       <header>
         <div class="post-title">
+          
           <h1 class="title">
             <a class="title-link" href="{{ .Permalink | safeURL }}">
               {{ .Title }}
@@ -16,7 +17,7 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa-solid fa-calendar" aria-hidden="true"></i>
-              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+              <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
                 {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
               </time>
             </span>

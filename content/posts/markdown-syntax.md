@@ -18,7 +18,7 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 This article gives a indepth understanding of models. General to all programming languages.
-Exapmles used her will be on JAVA.
+Examples used her will be on JAVA.
 <!--more-->
 
 

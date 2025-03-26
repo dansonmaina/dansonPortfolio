@@ -17,6 +17,13 @@ enableEmoji = true
 
 [markup.highlight]
 noClasses = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[frontmatter]
+  date = [":default", "date", "publishDate", "lastmod"]
 
 [params]
 author = "Danson Maina"
@@ -25,10 +32,9 @@ description = "Danson Maina's personal portfolio"
 keywords = "Android Developer,JAVA,Kotlin, IT Technician"
 info = ["Android Developer"]
 avatarURL = "images/danson_maina.jpg"
-
-
 #gravatar = "john.doe@example.com"
-dateFormat = "February 6, 2024"
+dateFormat = "January 2, 2006"
+
 since = 2020
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -130,6 +136,9 @@ customRemoteJS = []
 # # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 # connectsrc = ["'self'", "https://www.google-analytics.com"]
 
+
+
+
 [taxonomies]
 category = "categories"
 series = "series"
@@ -188,7 +197,7 @@ weight = 2
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 3
 url = "posts/"
 
@@ -209,7 +218,7 @@ weight = 2
 url = "about/"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 3
 url = "posts/"
 
